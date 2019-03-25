@@ -1,0 +1,716 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="22.294646900000000" minlon="114.167721799999995" maxlat="22.326730800000000" maxlon="114.172451199999998"/></metadata>                
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3267308" lon="114.1677661">
+  </rtept>
+  <rtept lat="22.3266354" lon="114.1678472">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3266354" lon="114.1678472">
+  </rtept>
+  <rtept lat="22.3264764" lon="114.1679189">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3264764" lon="114.1679189">
+  </rtept>
+  <rtept lat="22.3263886" lon="114.167956">
+  </rtept>
+  <rtept lat="22.3263141" lon="114.1679807">
+  </rtept>
+  <rtept lat="22.326234" lon="114.168003">
+  </rtept>
+  <rtept lat="22.3255456" lon="114.1681555">
+  </rtept>
+  <rtept lat="22.3251723" lon="114.1682358">
+  </rtept>
+  <rtept lat="22.3251103" lon="114.1682477">
+  </rtept>
+  <rtept lat="22.324341" lon="114.1683989">
+  </rtept>
+  <rtept lat="22.3240569" lon="114.1684598">
+  </rtept>
+  <rtept lat="22.3239912" lon="114.1684742">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+    <ogr:wikidata>Q2188138</ogr:wikidata>
+  </extensions>
+  <rtept lat="22.3239912" lon="114.1684742">
+  </rtept>
+  <rtept lat="22.3238266" lon="114.1685084">
+  </rtept>
+  <rtept lat="22.3230768" lon="114.1686643">
+  </rtept>
+  <rtept lat="22.3227796" lon="114.1687283">
+  </rtept>
+  <rtept lat="22.3225635" lon="114.1687692">
+  </rtept>
+  <rtept lat="22.3225398" lon="114.1687737">
+  </rtept>
+  <rtept lat="22.3224821" lon="114.1687862">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3224821" lon="114.1687862">
+  </rtept>
+  <rtept lat="22.3220362" lon="114.1688737">
+  </rtept>
+  <rtept lat="22.3210046" lon="114.169074900000012">
+  </rtept>
+  <rtept lat="22.3209688" lon="114.1690817">
+  </rtept>
+  <rtept lat="22.3208344" lon="114.1691118">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3208344" lon="114.1691118">
+  </rtept>
+  <rtept lat="22.3205518" lon="114.1691708">
+  </rtept>
+  <rtept lat="22.3202612" lon="114.1692279">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3202612" lon="114.1692279">
+  </rtept>
+  <rtept lat="22.3198469" lon="114.1693168">
+  </rtept>
+  <rtept lat="22.3194982" lon="114.169389">
+  </rtept>
+  <rtept lat="22.3193591" lon="114.1694178">
+  </rtept>
+  <rtept lat="22.3193121" lon="114.1694289">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3193121" lon="114.1694289">
+  </rtept>
+  <rtept lat="22.3191256" lon="114.1694676">
+  </rtept>
+  <rtept lat="22.3190567" lon="114.1694827">
+  </rtept>
+  <rtept lat="22.3187817" lon="114.1695384">
+  </rtept>
+  <rtept lat="22.3183452" lon="114.169628">
+  </rtept>
+  <rtept lat="22.3181872" lon="114.169660400000012">
+  </rtept>
+  <rtept lat="22.3175638" lon="114.1697866">
+  </rtept>
+  <rtept lat="22.3175012" lon="114.1697992">
+  </rtept>
+  <rtept lat="22.3167361" lon="114.1699583">
+  </rtept>
+  <rtept lat="22.3165508" lon="114.1699922">
+  </rtept>
+  <rtept lat="22.3154083" lon="114.170231">
+  </rtept>
+  <rtept lat="22.3153737" lon="114.1702364">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3153737" lon="114.1702364">
+  </rtept>
+  <rtept lat="22.3149368" lon="114.1703266">
+  </rtept>
+  <rtept lat="22.3148881" lon="114.1703381">
+  </rtept>
+  <rtept lat="22.3145699" lon="114.1703989">
+  </rtept>
+  <rtept lat="22.3144742" lon="114.170417500000013">
+  </rtept>
+  <rtept lat="22.3143894" lon="114.1704348">
+  </rtept>
+  <rtept lat="22.3142318" lon="114.1704656">
+  </rtept>
+  <rtept lat="22.3139011" lon="114.1705303">
+  </rtept>
+  <rtept lat="22.3132964" lon="114.1706529">
+  </rtept>
+  <rtept lat="22.3132649" lon="114.1706593">
+  </rtept>
+  <rtept lat="22.3130743" lon="114.1706979">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3130743" lon="114.1706979">
+  </rtept>
+  <rtept lat="22.3129765" lon="114.1707174">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3129765" lon="114.1707174">
+  </rtept>
+  <rtept lat="22.3129197" lon="114.1707292">
+  </rtept>
+  <rtept lat="22.3125019" lon="114.1708161">
+  </rtept>
+  <rtept lat="22.3124781" lon="114.1708204">
+  </rtept>
+  <rtept lat="22.311942" lon="114.170927">
+  </rtept>
+  <rtept lat="22.3109889" lon="114.1711037">
+  </rtept>
+  <rtept lat="22.3109097" lon="114.1711195">
+  </rtept>
+  <rtept lat="22.3103173" lon="114.1712234">
+  </rtept>
+  <rtept lat="22.3102593" lon="114.1712286">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3102593" lon="114.1712286">
+  </rtept>
+  <rtept lat="22.3101388" lon="114.1712296">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3101388" lon="114.1712296">
+  </rtept>
+  <rtept lat="22.3096746" lon="114.1712523">
+  </rtept>
+  <rtept lat="22.3091941" lon="114.1713029">
+  </rtept>
+  <rtept lat="22.3090319" lon="114.1713194">
+  </rtept>
+  <rtept lat="22.3084989" lon="114.1713838">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3084989" lon="114.1713838">
+  </rtept>
+  <rtept lat="22.3084129" lon="114.1713885">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3084129" lon="114.1713885">
+  </rtept>
+  <rtept lat="22.3078702" lon="114.1714242">
+  </rtept>
+  <rtept lat="22.3070433" lon="114.1714892">
+  </rtept>
+  <rtept lat="22.3065585" lon="114.1715312">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3065585" lon="114.1715312">
+  </rtept>
+  <rtept lat="22.3061205" lon="114.1715674">
+  </rtept>
+  <rtept lat="22.3059443" lon="114.1715828">
+  </rtept>
+  <rtept lat="22.305391" lon="114.1716854">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.305391" lon="114.1716854">
+  </rtept>
+  <rtept lat="22.3052854" lon="114.1717002">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3052854" lon="114.1717002">
+  </rtept>
+  <rtept lat="22.3044437" lon="114.1717763">
+  </rtept>
+  <rtept lat="22.3039656" lon="114.1718058">
+  </rtept>
+  <rtept lat="22.3032772" lon="114.1718368">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3032772" lon="114.1718368">
+  </rtept>
+  <rtept lat="22.3032029" lon="114.171841">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3032029" lon="114.171841">
+  </rtept>
+  <rtept lat="22.302637" lon="114.1718856">
+  </rtept>
+  <rtept lat="22.3023192" lon="114.171908">
+  </rtept>
+  <rtept lat="22.3017182" lon="114.1719428">
+  </rtept>
+  <rtept lat="22.3012244" lon="114.1719845">
+  </rtept>
+  <rtept lat="22.3004493" lon="114.1720471">
+  </rtept>
+  <rtept lat="22.3003665" lon="114.1720525">
+  </rtept>
+  <rtept lat="22.3003174" lon="114.1720565">
+  </rtept>
+  <rtept lat="22.3002985" lon="114.1720581">
+  </rtept>
+  <rtept lat="22.2995327" lon="114.172126">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.2995327" lon="114.172126">
+  </rtept>
+  <rtept lat="22.2987194" lon="114.1721638">
+  </rtept>
+  <rtept lat="22.2981634" lon="114.1721883">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.2981634" lon="114.1721883">
+  </rtept>
+  <rtept lat="22.2976374" lon="114.1722153">
+  </rtept>
+  <rtept lat="22.2969503" lon="114.1722677">
+  </rtept>
+  <rtept lat="22.2964908" lon="114.172305400000013">
+  </rtept>
+  <rtept lat="22.2956029" lon="114.1723782">
+  </rtept>
+  <rtept lat="22.2952437" lon="114.172409">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.2952437" lon="114.172409">
+  </rtept>
+  <rtept lat="22.2947867" lon="114.1724439">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.2947867" lon="114.1724439">
+  </rtept>
+  <rtept lat="22.2946808" lon="114.1724499">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.2946808" lon="114.1724499">
+  </rtept>
+  <rtept lat="22.2946469" lon="114.1724512">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.2946808" lon="114.1724499">
+  </rtept>
+  <rtept lat="22.2946862" lon="114.1724243">
+  </rtept>
+  <rtept lat="22.2946981" lon="114.1723988">
+  </rtept>
+  <rtept lat="22.2947123" lon="114.1723685">
+  </rtept>
+  <rtept lat="22.2947419" lon="114.1723387">
+  </rtept>
+  <rtept lat="22.2947802" lon="114.172321100000019">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.2947802" lon="114.172321100000019">
+  </rtept>
+  <rtept lat="22.2956146" lon="114.1722642">
+  </rtept>
+  <rtept lat="22.2959541" lon="114.1722386">
+  </rtept>
+  <rtept lat="22.296485" lon="114.1721995">
+  </rtept>
+  <rtept lat="22.2975566" lon="114.172128">
+  </rtept>
+  <rtept lat="22.298159" lon="114.1720931">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.298159" lon="114.1720931">
+  </rtept>
+  <rtept lat="22.2983371" lon="114.1720811">
+  </rtept>
+  <rtept lat="22.2989302" lon="114.1720355">
+  </rtept>
+  <rtept lat="22.2995078" lon="114.1720073">
+  </rtept>
+  <rtept lat="22.300336" lon="114.1719483">
+  </rtept>
+  <rtept lat="22.3013386" lon="114.1718718">
+  </rtept>
+  <rtept lat="22.3016967" lon="114.1718391">
+  </rtept>
+  <rtept lat="22.3022692" lon="114.1717977">
+  </rtept>
+  <rtept lat="22.3031933" lon="114.1717447">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3031933" lon="114.1717447">
+  </rtept>
+  <rtept lat="22.3032699" lon="114.1717397">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3032699" lon="114.1717397">
+  </rtept>
+  <rtept lat="22.3039148" lon="114.1717186">
+  </rtept>
+  <rtept lat="22.3043847" lon="114.1716841">
+  </rtept>
+  <rtept lat="22.3052719" lon="114.171609">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3052719" lon="114.171609">
+  </rtept>
+  <rtept lat="22.3053649" lon="114.1716009">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3053649" lon="114.1716009">
+  </rtept>
+  <rtept lat="22.3059375" lon="114.1715097">
+  </rtept>
+  <rtept lat="22.3065355" lon="114.1714696">
+  </rtept>
+  <rtept lat="22.306615" lon="114.1714608">
+  </rtept>
+  <rtept lat="22.3070945" lon="114.171414">
+  </rtept>
+  <rtept lat="22.3077035" lon="114.171345">
+  </rtept>
+  <rtept lat="22.3084117" lon="114.1712781">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3084117" lon="114.1712781">
+  </rtept>
+  <rtept lat="22.3084968" lon="114.1712706">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3084968" lon="114.1712706">
+  </rtept>
+  <rtept lat="22.3092031" lon="114.1711906">
+  </rtept>
+  <rtept lat="22.309298" lon="114.171183">
+  </rtept>
+  <rtept lat="22.3096647" lon="114.171143">
+  </rtept>
+  <rtept lat="22.3102041" lon="114.1711013">
+  </rtept>
+  <rtept lat="22.3102907" lon="114.1710926">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3102907" lon="114.1710926">
+  </rtept>
+  <rtept lat="22.3109159" lon="114.1710195">
+  </rtept>
+  <rtept lat="22.3119028" lon="114.1708377">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3119028" lon="114.1708377">
+  </rtept>
+  <rtept lat="22.3128285" lon="114.1706443">
+  </rtept>
+  <rtept lat="22.3129602" lon="114.1706168">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3129602" lon="114.1706168">
+  </rtept>
+  <rtept lat="22.313057" lon="114.1705982">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.313057" lon="114.1705982">
+  </rtept>
+  <rtept lat="22.3131486" lon="114.1705792">
+  </rtept>
+  <rtept lat="22.3138663" lon="114.1704302">
+  </rtept>
+  <rtept lat="22.3139781" lon="114.170406">
+  </rtept>
+  <rtept lat="22.3140808" lon="114.1703873">
+  </rtept>
+  <rtept lat="22.3145552" lon="114.1702983">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3145552" lon="114.1702983">
+  </rtept>
+  <rtept lat="22.3146148" lon="114.1702846">
+  </rtept>
+  <rtept lat="22.3149064" lon="114.1702217">
+  </rtept>
+  <rtept lat="22.3150143" lon="114.1701983">
+  </rtept>
+  <rtept lat="22.3153486" lon="114.1701268">
+  </rtept>
+  <rtept lat="22.3153942" lon="114.1701179">
+  </rtept>
+  <rtept lat="22.3160653" lon="114.1699739">
+  </rtept>
+  <rtept lat="22.3162199" lon="114.1699465">
+  </rtept>
+  <rtept lat="22.3165373" lon="114.1698803">
+  </rtept>
+  <rtept lat="22.3167114" lon="114.1698454">
+  </rtept>
+  <rtept lat="22.3170442" lon="114.1697766">
+  </rtept>
+  <rtept lat="22.3175182" lon="114.1696741">
+  </rtept>
+  <rtept lat="22.3179068" lon="114.1696013">
+  </rtept>
+  <rtept lat="22.318309" lon="114.1695184">
+  </rtept>
+  <rtept lat="22.3184958" lon="114.1694815">
+  </rtept>
+  <rtept lat="22.3190364" lon="114.1693707">
+  </rtept>
+  <rtept lat="22.3191061" lon="114.169356600000015">
+  </rtept>
+  <rtept lat="22.319293" lon="114.16932">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.319293" lon="114.16932">
+  </rtept>
+  <rtept lat="22.3195283" lon="114.1692698">
+  </rtept>
+  <rtept lat="22.3196223" lon="114.1692499">
+  </rtept>
+  <rtept lat="22.3197759" lon="114.1692173">
+  </rtept>
+  <rtept lat="22.3199346" lon="114.1691837">
+  </rtept>
+  <rtept lat="22.3199726" lon="114.1691759">
+  </rtept>
+  <rtept lat="22.3202523" lon="114.1691157">
+  </rtept>
+  <rtept lat="22.3204492" lon="114.1690781">
+  </rtept>
+  <rtept lat="22.3204737" lon="114.1690731">
+  </rtept>
+  <rtept lat="22.3206441" lon="114.1690376">
+  </rtept>
+  <rtept lat="22.3207199" lon="114.1690215">
+  </rtept>
+  <rtept lat="22.3208186" lon="114.1690006">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3208186" lon="114.1690006">
+  </rtept>
+  <rtept lat="22.3208398" lon="114.1689985">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3208398" lon="114.1689985">
+  </rtept>
+  <rtept lat="22.3208941" lon="114.1689857">
+  </rtept>
+  <rtept lat="22.321321" lon="114.1688974">
+  </rtept>
+  <rtept lat="22.3215519" lon="114.1688487">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3215519" lon="114.1688487">
+  </rtept>
+  <rtept lat="22.3220223" lon="114.168761900000021">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3220223" lon="114.168761900000021">
+  </rtept>
+  <rtept lat="22.3220473" lon="114.1687557">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3220473" lon="114.1687557">
+  </rtept>
+  <rtept lat="22.3223344" lon="114.1686866">
+  </rtept>
+  <rtept lat="22.3225325" lon="114.1686524">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+    <ogr:wikidata>Q2188138</ogr:wikidata>
+  </extensions>
+  <rtept lat="22.3225325" lon="114.1686524">
+  </rtept>
+  <rtept lat="22.3230193" lon="114.16856">
+  </rtept>
+  <rtept lat="22.3235326" lon="114.168451">
+  </rtept>
+  <rtept lat="22.3239666" lon="114.168346">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3239666" lon="114.168346">
+  </rtept>
+  <rtept lat="22.3240353" lon="114.1683297">
+  </rtept>
+  <rtept lat="22.3241449" lon="114.1683058">
+  </rtept>
+  <rtept lat="22.3251118" lon="114.1681198">
+  </rtept>
+  <rtept lat="22.3259107" lon="114.167944500000019">
+  </rtept>
+  <rtept lat="22.3262214" lon="114.1678705">
+  </rtept>
+  <rtept lat="22.326289" lon="114.167847">
+  </rtept>
+  <rtept lat="22.3263623" lon="114.1678123">
+  </rtept>
+  <rtept lat="22.3264241" lon="114.1677752">
+  </rtept>
+  <rtept lat="22.3264836" lon="114.167735900000011">
+  </rtept>
+</rte>
+<rte>
+  <name>彌敦道 Nathan Road</name>
+  <extensions>
+  </extensions>
+  <rtept lat="22.3264836" lon="114.167735900000011">
+  </rtept>
+  <rtept lat="22.3264994" lon="114.1677218">
+  </rtept>
+</rte>
+</gpx>
