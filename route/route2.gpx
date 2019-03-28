@@ -1,0 +1,884 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="22.302489999999999" minlon="114.159327900000008" maxlat="22.307521399999999" maxlon="114.171841000000001"/></metadata>                
+<wpt lat="22.3058563" lon="114.1668472">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3060594" lon="114.1659937">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3060952" lon="114.1658035">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3061542" lon="114.1654638">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3061646" lon="114.1654043">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3061646" lon="114.1654043">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3062132" lon="114.1651776">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3062132" lon="114.1651776">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3063646" lon="114.1644706">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3064002" lon="114.1642881">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3064002" lon="114.1642881">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3064345" lon="114.1640901">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3064405" lon="114.1640556">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3064405" lon="114.1640556">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3065589" lon="114.163684">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3066012" lon="114.1635682">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3067" lon="114.16328">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3067" lon="114.16328">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3067297" lon="114.1630843">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3067582" lon="114.1629115">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3067845" lon="114.162777">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30684" lon="114.16253">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.307032" lon="114.16185">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.307054" lon="114.16175">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3070674" lon="114.1616645">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3070832" lon="114.1615507">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3070832" lon="114.1615507">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3070963" lon="114.1614623">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3071387" lon="114.1613855">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3072044" lon="114.1613311">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3072841" lon="114.1613068">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3073775" lon="114.161320300000014">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3074571" lon="114.1613748">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3075082" lon="114.1614604">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3075214" lon="114.1615612">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3074943" lon="114.1616587">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3074943" lon="114.1616587">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3073032" lon="114.1622568">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3073032" lon="114.1622568">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30708" lon="114.1628">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30689" lon="114.16313">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30689" lon="114.16313">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30678" lon="114.16345">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3067326" lon="114.1636273">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3067059" lon="114.1637258">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3067059" lon="114.1637258">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3066342" lon="114.164014">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3066342" lon="114.164014">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3064374" lon="114.1649438">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3064075" lon="114.1650851">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3064075" lon="114.1650851">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3063678" lon="114.165286200000011">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3063678" lon="114.165286200000011">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30621" lon="114.16595">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3061417" lon="114.1662517">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3060283" lon="114.1667229">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3059933" lon="114.1668686">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3059933" lon="114.1668686">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.305955" lon="114.1670297">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.305955" lon="114.1670297">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3058566" lon="114.1676126">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3057946" lon="114.1679904">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3057946" lon="114.1679904">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3057066" lon="114.1684065">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3055529" lon="114.169059">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3055445" lon="114.1690945">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3055051" lon="114.1692619">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3055051" lon="114.1692619">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3054697" lon="114.1694025">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3053963" lon="114.1696942">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3053594" lon="114.1699134">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3053236" lon="114.1701366">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.305298" lon="114.1703521">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.305291" lon="114.1705282">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3052892" lon="114.1705737">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3052879" lon="114.1707111">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3052867" lon="114.1708405">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3053004" lon="114.1710927">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3053403" lon="114.1714069">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3053456" lon="114.1714488">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3053649" lon="114.1716009">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3053649" lon="114.1716009">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.305391" lon="114.1716854">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.305391" lon="114.1716854">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3052854" lon="114.1717002">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3052854" lon="114.1717002">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.305152" lon="114.1717123">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3044437" lon="114.1717763">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3039656" lon="114.1718058">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3032772" lon="114.1718368">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3032772" lon="114.1718368">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3032029" lon="114.171841">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3032029" lon="114.171841">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031933" lon="114.1717447">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031933" lon="114.1717447">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.303188" lon="114.1716445">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031787" lon="114.1714608">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031588" lon="114.1710967">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031402" lon="114.170752">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031402" lon="114.170752">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031322" lon="114.1705971">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031303" lon="114.1705616">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031179" lon="114.1703282">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031166" lon="114.170294">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031142" lon="114.1702498">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030819" lon="114.1697589">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030428" lon="114.1693418">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030403" lon="114.169313">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030372" lon="114.1692795">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030214" lon="114.1690856">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029611" lon="114.1682759">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029591" lon="114.1682485">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029512" lon="114.1681429">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029512" lon="114.1681429">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029419" lon="114.1680187">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029419" lon="114.1680187">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.302928" lon="114.1678083">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.302928" lon="114.1678083">
+  <extensions>
+    <ogr:tunnel>building_passage</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3028846" lon="114.1672665">
+  <extensions>
+    <ogr:tunnel>building_passage</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3028723" lon="114.1671336">
+  <extensions>
+    <ogr:tunnel>building_passage</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3028723" lon="114.1671336">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028511" lon="114.1669051">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028511" lon="114.1669051">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028269" lon="114.1667528">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028015" lon="114.1665503">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3027984" lon="114.1664511">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3027984" lon="114.1664511">
+  <extensions>
+    <ogr:FIXME>confirm alignment</ogr:FIXME>
+  </extensions>
+</wpt>
+<wpt lat="22.3027841" lon="114.1661037">
+  <extensions>
+    <ogr:FIXME>confirm alignment</ogr:FIXME>
+  </extensions>
+</wpt>
+<wpt lat="22.3027781" lon="114.1659331">
+  <extensions>
+    <ogr:FIXME>confirm alignment</ogr:FIXME>
+  </extensions>
+</wpt>
+<wpt lat="22.3027781" lon="114.1659331">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3025713" lon="114.163954">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3025672" lon="114.1639145">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3025672" lon="114.1639145">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.302568" lon="114.163810600000019">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.302568" lon="114.163810600000019">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3025641" lon="114.16368">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3025507" lon="114.1631481">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3025507" lon="114.1631481">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3025177" lon="114.1617783">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3024988" lon="114.1611859">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3024988" lon="114.1611859">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30249" lon="114.1609485">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30249" lon="114.1607715">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3024925" lon="114.160624">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3025049" lon="114.1604067">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3025397" lon="114.1601667">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3025719" lon="114.1600312">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026327" lon="114.1598716">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3027357" lon="114.1596812">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028599" lon="114.1594856">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028807" lon="114.1594502">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028807" lon="114.1594502">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028849" lon="114.159414700000013">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028985" lon="114.1593821">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029204" lon="114.1593553">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029487" lon="114.1593367">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029808" lon="114.1593279">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030138" lon="114.1593297">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030449" lon="114.159342">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030712" lon="114.1593637">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030905" lon="114.1593928">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.303101" lon="114.1594267">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031017" lon="114.1594625">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3031017" lon="114.1594625">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030985" lon="114.1594797">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030929" lon="114.159496300000015">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030852" lon="114.1595118">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030754" lon="114.159526">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030638" lon="114.1595384">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030638" lon="114.1595384">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.30305" lon="114.1595493">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030348" lon="114.1595578">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030185" lon="114.1595637">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030016" lon="114.1595667">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029845" lon="114.159567">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029676" lon="114.1595644">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029676" lon="114.1595644">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029293" lon="114.1595934">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028766" lon="114.1596604">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3028294" lon="114.1597335">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3027829" lon="114.1598281">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3027159" lon="114.1599736">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026662" lon="114.1601211">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026327" lon="114.1602753">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026166" lon="114.1604242">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026092" lon="114.1605583">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026042" lon="114.1607031">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026104" lon="114.1608721">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026141" lon="114.1611897">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026141" lon="114.1611897">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026321" lon="114.1617518">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026648" lon="114.1631473">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3026648" lon="114.1631473">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3026772" lon="114.1637514">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3026783" lon="114.1638075">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3026783" lon="114.1638075">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.302683" lon="114.1639074">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.302683" lon="114.1639074">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3028618" lon="114.1659321">
+  <extensions>
+    <ogr:tunnel>yes</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3028618" lon="114.1659321">
+  <extensions>
+    <ogr:FIXME>confirm alignment</ogr:FIXME>
+  </extensions>
+</wpt>
+<wpt lat="22.3028694" lon="114.1661163">
+  <extensions>
+    <ogr:FIXME>confirm alignment</ogr:FIXME>
+  </extensions>
+</wpt>
+<wpt lat="22.3028882" lon="114.1664513">
+  <extensions>
+    <ogr:FIXME>confirm alignment</ogr:FIXME>
+  </extensions>
+</wpt>
+<wpt lat="22.3028882" lon="114.1664513">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029055" lon="114.1665835">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3029265" lon="114.1667789">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.302964" lon="114.167076">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.302964" lon="114.167076">
+  <extensions>
+    <ogr:tunnel>building_passage</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3029691" lon="114.1671244">
+  <extensions>
+    <ogr:tunnel>building_passage</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3029826" lon="114.1673698">
+  <extensions>
+    <ogr:tunnel>building_passage</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3030186" lon="114.1678016">
+  <extensions>
+    <ogr:tunnel>building_passage</ogr:tunnel>
+  </extensions>
+</wpt>
+<wpt lat="22.3030186" lon="114.1678016">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030228" lon="114.1679363">
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="22.3030252" lon="114.1680149">
+  <extensions>
+  </extensions>
+</wpt>
+</gpx>
