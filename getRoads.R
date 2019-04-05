@@ -47,10 +47,11 @@ showOnMap<-function(data){
   if (class(data)[1] == "sf"){
     data <- data %>% sfToSpatial()
   }
-  leaflet() %>% 
+  m<-leaflet() %>% 
     addTiles() %>%
     addPolylines(data=data, popup=~name) %>%
     addCircles(data=data %>% as("SpatialPoints"), radius = 5)
+  m
 }
 
 #### output to gpx ####
@@ -94,7 +95,7 @@ showOnMap(h)
 
 ###### Using graph
 
-createDG<-function(h){
+createDG<-function(h,colnames=h$name,attrname="road_name"){
   r<-st_touches(h,h)
   m<-(as.matrix(r)*1)
   require(stplanr, quietly = T)
@@ -107,8 +108,8 @@ createDG<-function(h){
       }
     })
   })
-  colnames(m) <- h$name
-  graph_from_adjacency_matrix(m,mode="directed", add.colnames = "road_name")  
+  colnames(m) <- colnames
+  graph_from_adjacency_matrix(m,mode="directed", add.colnames = attrname)  
 }
 
 
