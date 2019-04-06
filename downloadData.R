@@ -55,3 +55,39 @@ downloadHelper<-function(start,end,dir="Data/"){
 tic("download") ##wait too long, perhaps we go parallel/async
 downloadHelper(start="20190101",end="20190331")
 toc()
+
+### try async
+require(curl)
+require(magrittr)
+
+conDownloadHelper<-function(start,
+                            end,
+                            dir="Data/",
+                            url="https://api.data.gov.hk/v1/historical-archive/get-file",
+                            spURL="http://resource.data.one.gov.hk/td/speedmap.xml"){
+  l<-getDataList(start=start,end=end)
+  ts<-fromJSON(content(l,"text"))
+  ts<-ts$timestamps
+  pool<-new_pool()
+  cb <- function(req,fname){
+    if (req$status == 200){
+      tryCatch({
+        write.fst(toDF(rawToChar(req$content)),paste0(dir,fname,".fst"),100)  
+      }, error = function(cond){
+        return(req$url)
+      })
+    } else{
+      req$url
+    }
+  }
+  sapply(paste0(url,"?","url=",spURL,"&","time=",ts),function(u){
+    fname=unlist(strsplit(u,"time="))[2]
+    curl_fetch_multi(u,done=function(req){cb(req,fname)},
+                     pool=pool )
+  })
+  multi_run(pool=pool)
+}
+
+tic("download") ##better?
+conDownloadHelper(start="20190103",end="20190331")
+toc()
