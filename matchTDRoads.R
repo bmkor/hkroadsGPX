@@ -55,14 +55,11 @@ plotRoads<-function(G,...){
 plotRoads(G)
 
 
-
-
-
-
 ### try GIS on induced graph from K
 kg<-induced.subgraph(G,V(G)[V(G)$district == 2])
 ##components(kg) ## 2 only
 
+### view on a GIS map
 map %>% addPolylines(data=do.call(rbind,lapply(V(kg)$geometry,function(l){
   l %>% as('Spatial')
 })))
@@ -76,9 +73,7 @@ hkr<-opq("hong kong") %>%
   add_osm_feature(key="route") %>%
   osmdata_sf()
 
-
-st_cast()
-
+### just try
 pp<-V(kg)$geometry[[1]] %>% 
   st_cast('MULTIPOINT') %>% 
   st_sfc() %>%
@@ -115,17 +110,19 @@ trip<-osrmRoute(c("start",st_coordinates(p1)),
 
 map %>% addPolylines(data=trip) ## got a dubious u-turn
 
-###
+### view as a directed graph
 cluster<-components(kg)
 ckg<-induced.subgraph(kg,
                  V(kg)[which(cluster$membership == 1)])
 
-plotRoads(ckg)
-get.adjacency(ckg)
-
-degree(ckg,mode = "out")
+plotRoads(ckg) ###  
+get.adjacency(ckg) ### the adjacency matrix will be used fot T-GCN
 
 
+
+#degree(ckg,mode = "out")
+
+### recursively finding longest paths --- just for fun
 se<-V(ckg)[degree(ckg,mode = "in") == 0];sk<-V(ckg)[degree(ckg,mode = "out") == 0]
 
 m<-sapply(sk,function(v){

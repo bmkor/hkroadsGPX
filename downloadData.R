@@ -28,7 +28,6 @@ getDataList<-function(start,
   GET(datalistAPIURL,query = list(start=start,end=end,url=spURL))  
 }
 
-### try async download
 conDownloadHelper<-function(start,
                             end,
                             dir="Data/",
@@ -37,7 +36,7 @@ conDownloadHelper<-function(start,
   l<-getDataList(start=start,end=end)
   ts<-fromJSON(content(l,"text"))
   ts<-ts$timestamps
-  pool<-new_pool()
+  pool<-new_pool(total_con = 720000, host_con = 100, multiplex = T)
   cb <- function(req,fname){
     if (req$status == 200){
       tryCatch({
@@ -57,6 +56,6 @@ conDownloadHelper<-function(start,
   multi_run(pool=pool)
 }
 
-tic("download") ##better?
-conDownloadHelper(start="20190103",end="20190331")
-toc()
+# tic("download") ##better: 3924.539 sec elapsed ~ 1 hour #3545.704, # 2329.938, 2138.423
+# conDownloadHelper(start="20190225",end="20190331")
+# toc()
