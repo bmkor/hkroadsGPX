@@ -4,6 +4,7 @@ require(httr)
 require(fst)
 require(jsonlite)
 require(tictoc)
+require(curl)
 
 ### Convert XML to Data frame  
 toDF<-function(content){
@@ -27,39 +28,7 @@ getDataList<-function(start,
   GET(datalistAPIURL,query = list(start=start,end=end,url=spURL))  
 }
 
-### Helper to download speed data
-getSpData<-function(time,
-                    url="https://api.data.gov.hk/v1/historical-archive/get-file",
-                    spURL="http://resource.data.one.gov.hk/td/speedmap.xml"){
-  dataAPIURL<-url
-  GET(dataAPIURL,query=list(url=spURL,time=time))
-}
-
-### Download Helper
-downloadHelper<-function(start,end,dir="Data/"){
-  l<-getDataList(start=start,end=end)
-  ts<-fromJSON(content(l,"text"))
-  ts<-ts$timestamp
-  failed<-c()
-  lapply(ts,function(time){
-    r<-getSpData(time)
-    if (r$status_code == 200){
-      write.fst(toDF(r$content),paste0(dir,time,".fst"),100)      
-    } else {
-      failed <<- c(failed,time)
-    }
-  })
-  failed
-}
-
-tic("download") ##wait too long, perhaps we go parallel/async
-downloadHelper(start="20190101",end="20190331")
-toc()
-
-### try async
-require(curl)
-require(magrittr)
-
+### try async download
 conDownloadHelper<-function(start,
                             end,
                             dir="Data/",
